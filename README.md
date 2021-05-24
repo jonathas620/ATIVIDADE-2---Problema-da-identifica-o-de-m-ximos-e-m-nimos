@@ -1,0 +1,2 @@
+# ATIVIDADE-2---Problema-da-identifica-o-de-m-ximos-e-m-nimos
+Em grande parte dos problemas estatísticos, os valore de máximo e mínimo de um conjunto de valores são utilizados com grande frequência (por exemplo em processos de normalização). Você deverá criar um programa que seja capaz de identificar os valores de máximo e mínimo em um vetor de números inteiros, obedecendo alguns critérios de projeto:
